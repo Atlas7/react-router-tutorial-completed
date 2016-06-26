@@ -1,3 +1,5 @@
+Some ReactJS boiler-plates / solutions as a result of completing the [react-router tutorial)(https://github.com/reactjs/react-router-tutorial) by created the Facebook React team.
+
 React Router Tutorial
 =====================
 
